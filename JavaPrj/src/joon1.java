@@ -1,5 +1,5 @@
 
-public class Hello {
+public class joon1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
