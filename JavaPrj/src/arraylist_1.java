@@ -21,6 +21,7 @@ public class arraylist_1 {
 		for(int i =0; i<rList.size(); i++) {
 			System.out.println("["+ i +"]번째 배열 기억공간: " + rList.get(i));
 		}
+		//List컬렉션을 통해 저장된 데이터를 가져올때 for문을 쓰지 않고, while문을 쓰길 권장함
 		Iterator<String> it = rList.iterator();
 		while (it.hasNext()) {
 			String name=(String) it.next();
