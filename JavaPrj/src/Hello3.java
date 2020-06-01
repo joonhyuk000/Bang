@@ -1,9 +1,12 @@
-
-public class Hello3 {
-
+public class Hello3{
 	public static void main(String[] args) {
-
-		System.out.println("¾È³ç!");
+		int a=100, b=200;
+		float result;
+		
+		result =a/b;
+		
+		;
+		System.out.printf(" %f \n",result);
 	}
 
 }

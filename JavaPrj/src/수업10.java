@@ -20,8 +20,8 @@ public class ¼ö¾÷10 {
 				System.out.printf("%3d",aa[i][k]);
 			}
 			System.out.printf("\n");
-			}
 		}
 	}
+}
 
 

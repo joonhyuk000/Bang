@@ -1,10 +1,13 @@
-
 public class Hello2 {
-
 	public static void main(String[] args) {
+		int a;
+		float b;
 		
-		System.out.println("Hello2!");
-
+		a=(int) 123.45f;
+		b=200;
+		
+		System.out.printf("a의 값 ==> %d \n",a);
+		System.out.printf("b의 값 ==> %f \n",b);
 	}
 
 }

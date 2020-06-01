@@ -5,8 +5,8 @@ public class ¼ö¾÷1 {
 
 		int i,j;
 		
-		for (i=3; i<=20; i++) {
-			if(i==3 || i==5 ||i==15) {
+		for (i=3; i<=8; i++) {
+			if(i==3 || i==5) {
 				System.out.println("<"+i+"´Ü>");
 			}
 			for(j=1; j<=9; j++) {
